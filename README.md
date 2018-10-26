@@ -1,5 +1,7 @@
 # DRBD External FLEX Provisioner for Kubernetes
 
+# This project is deprecated, please refer to [linstor-external-provisioner](https://github.com/LINBIT/linstor-external-provisioner)
+
 This provisioner is meant for use with with the DRBD FlexVolume Plugin and allows
 administrators to create storage classes with varying levels of redundancy and
 users to create new DRBD Manage resources using the familiar PV/PVC workflow.
